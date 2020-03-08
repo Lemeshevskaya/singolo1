@@ -440,12 +440,14 @@ a {
 .social {
     display: flex;
     margin: 23px 0;
+    list-style-type: none;
 }
 
 .social__icon {
     background: url("assets/img/about-us/social-icon.png") no-repeat center;
     height: 33px;
     width: 33px;
+    
 }
 
 .social__icon:hover {
